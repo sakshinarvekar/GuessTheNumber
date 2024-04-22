@@ -1,0 +1,70 @@
+
+#greetingLabel{
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+
+#greetingLabel2{
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+
+#rules{
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+
+#question{
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+
+
+#hintLabel{
+        -fx-width : 30;
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+#attemptsLabel{
+        -fx-width : 40;
+        -fx-text-fill: white;
+        -fx-stroke-width: 40px;
+        -fx-stroke: #f41bef;
+}
+
+/*
+*{
+        -fx-font-size: 18px;
+        -fx-text-fill: white;
+        -fx-stroke-width: 50px;
+        -fx-stroke: green;
+
+}
+*/
+
+
+/* Style for button*/
+#sc1btn, #sc2btn, #sc3btn1, #sc3btn2, #sc3btn3{
+        -fx-text-fill: white;
+        -fx-font-size: 20px;
+        -fx-height: 40px;
+        -fx-width: 100px;
+        -fx-background-color: #f66614;
+}
+
+#sc1btn:hover, #sc2btn:hover, #sc3btn1:hover, #sc3btn2:hover, #sc3btn3:hover{
+    -fx-background-color: derive(#FC6E51, -7%);
+    -fx-border-width: 1px;
+}
+
+.button:hover {
+    -fx-background-color: derive(#FC6E51, -7%);
+        -fx-border-width: 1px;
+}
+
+/*      */
